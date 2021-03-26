@@ -1,0 +1,5 @@
+print("Badger Console Server Beta")
+print("Version: 1.17.1.231_beta")
+print("Copyright (C) KolibraCorp 2021. All rights reserved.")
+print(" ")
+print("This operating system is open, and anyone can participate in its development. If you are one of those, write: https://vk.com/star_butterfly_original to suggest your idea, or take part in the development directly.")
